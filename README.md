@@ -1,2 +1,2 @@
-# ecommerce-site
+# Ecommerce-site
 React Practise
