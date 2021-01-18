@@ -13,7 +13,7 @@ function App() {
               <Route exact path="/">
                 <Photos />
               </Route>
-              <Route exact path="/">
+              <Route path="/">
                 <Cart />
               </Route>
             </Switch>
